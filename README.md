@@ -1,4 +1,7 @@
-# AthenaConceptMaps
+# AthenaConceptMaps [![DOI](https://zenodo.org/badge/355865210.svg)](https://zenodo.org/badge/latestdoi/355865210)
+
+
+
 
 This project creates three FHIR R4 ConceptMaps using data from [OHDSI Athena](https://athena.ohdsi.org/). These ConceptMaps are used for the translatation of ICD9 Codes into Snomed CT or ICD10 GM. The ConceptMaps are created by connecting ICD9 with ICD 10 GM through an intermediate step via SNOMED CT. The maps do not claim to be **complete**.
 
