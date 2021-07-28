@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "affiliation": "University of Lübeck, Lübeck",
+            "name": "Ulrich, Hannes",
+            "orcid": "0000-0002-8349-6798"
+        },
+        {
+            "affiliation": "University of Lübeck, Lübeck",
+            "name": "Wiedekopf, Joshua",
+            "orcid": "0000-0002-9902-6459"
+        }
+    ],
+    "description": "Converts OHDSI Athena data into FHIR R4 ConceptMaps",
+    "keywords": [
+        "FHIR",
+        "ConceptMaps",
+        "OHDSI Athena"
+    ],
+    "license": "AGPL-3.0",
+    "title": "AthenaConceptMaps",
+    "upload_type": "software"
+}
